@@ -1,4 +1,4 @@
-# CATopalian JS DOD
+# CATopalian JS DOD Level Loader
 This JavaScript app loads levels in our hybrid DOD (data oriented design) WORLD utilizing OoO (Object of Objects) for highly efficient simulations and game world designs.
 
 ---
