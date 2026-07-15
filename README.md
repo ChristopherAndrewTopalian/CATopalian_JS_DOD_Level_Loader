@@ -3,6 +3,8 @@ This JavaScript app loads levels in our hybrid DOD (data oriented design) WORLD 
 
 ---
 
+Video: https://www.youtube.com/watch?v=AtIHC8OG5FM
+
 Use App: https://christopherandrewtopalian.github.io/CATopalian_JS_DOD_Level_Loader/CATopalian_JS_DOD_Level_Loader.html
 
 ![001](src/media/textures/screenshots/001.png)
